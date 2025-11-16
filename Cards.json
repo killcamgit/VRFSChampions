@@ -2201,9 +2201,9 @@
             "Position": "CB"
         },
         "textColor": {
-            0,
-            0,
-            0
+            "R":0,
+            "G":0,
+            "B":0
         },
         "Smuff": {
             "PlayerImage": "rbxassetid://118356846004553",
