@@ -48,6 +48,11 @@
       "Rating": 88,
       "Position": "ST"
     },
+     "Hero KillCam": {
+      "PlayerImage": "rbxassetid://118356846004553",
+      "Rating": 88,
+      "Position": "CAM"
+    },
     "textColor": {
       "R": 255,
       "G": 244,
