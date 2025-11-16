@@ -22,9 +22,9 @@
             "Position": "CB"
         },
         "cardColor": {
-            255,
-            96,
-            242
+            "R": 255,
+            "G": 96,
+            "B": 242
         },
         "cardImage": "rbxassetid://121301233804131",
         "Hero Mini": {
@@ -49,9 +49,9 @@
             "Position": "ST"
         },
         "textColor": {
-            255,
-            244,
-            161
+            "R":255,
+            "G":244,
+            "B":161
 }
     },
     "Silver Surfers": {
@@ -87,9 +87,9 @@
             "Position": "ST"
         },
         "textColor": {
-            255,
-            255,
-            255
+            "R":255,
+            "G":255,
+            "B":255
         },
         "Silver Surfers Mizo": {
             "PlayerImage": "rbxassetid://118356846004553",
@@ -131,9 +131,9 @@
             "Position": "CB"
         },
         "cardColor": {
-            156,
-            156,
-            156
+            "R":156,
+            "G":156,
+            "B":156
     },
         "cardImage": "rbxassetid://102336818373104",
         "updatesRating": false,
@@ -186,14 +186,14 @@
         },
         "canUpgrade": true,
         "textColor": {
-            255,
-            174,
-            75
+            "R":255,
+            "G":174,
+            "B":75
         },
         "cardColor": {
-            255,
-            138,
-            42
+            "R":255,
+            "G":138,
+            "B":42
     },
         "cardImage": "rbxassetid://134099732795690",
         "updatesRating": false,
@@ -228,15 +228,15 @@
         "cardImage": "rbxassetid://90318526079633",
         "updatesRating": false,
         "cardColor": {
-            65,
-            36,
-            161
+            "R":65,
+            "G":36,
+            "B":161
     },
         "incomeMultiplier": 1,
         "textColor": {
-            255,
-            255,
-            255
+            "R":255,
+            "G":255,
+            "B":255
         }
     },
     "Dynamic Duo": {
@@ -257,147 +257,147 @@
         },
         "incomeMultiplier": 1.25,
         "cardColor": {
-            77,
-            49,
-            118
+            "R":77,
+            "G":49,
+            "B":118
     },
         "updatesRating": false,
         "canSell": true,
         "textColor": {
-            227,
-            188,
-            255
+            "R":227,
+            "G":188,
+            "B":255
         }
     },
     "Sponsor": {
         "incomeMultiplier": 1.25,
         "Sponsor Clem Sharp": {
             "cardColor": {
-                56,
-                99,
-                255
+                "R":56,
+                "G":99,
+                "B":255
         },
             "CardImage": "rbxassetid://134219824536807",
             "Position": "CM",
             "Rating": 90,
             "PlayerImage": "rbxassetid://104560201856993",
             "textColor": {
-                255,
-                255,
-                255
+                "R":255,
+                "G":255,
+                "B":255
             }
         },
         "Sponsor Devious Fellow": {
             "cardColor": {
-                151,
-                255,
-                106
+                "R":151,
+                "G":255,
+                "B":106
         },
             "CardImage": "rbxassetid://98860132113372",
             "Position": "RW",
             "Rating": 88,
             "PlayerImage": "rbxassetid://109493139898120",
             "textColor": {
-                255,
-                255,
-                255
+                "R":255,
+                "G":255,
+                "B":255
             }
         },
         "Sponsor Qxzyy": {
             "cardColor": {
-                116,
-                18,
-                18
+                "R":116,
+                "G":18,
+                "B":18
         },
             "CardImage": "rbxassetid://95607239407931",
             "Position": "GK",
             "Rating": 83,
             "PlayerImage": "rbxassetid://118356846004553",
             "textColor": {
-                255,
-                255,
-                255
+                "R":255,
+                "G":255,
+                "B":255
             }
         },
         "Sponsor Bubbly": {
             "cardColor": {
-                179,
-                28,
-                255
+                "R":179,
+                "G":28,
+                "B":255
         },
             "CardImage": "rbxassetid://82538853823375",
             "Position": "CM",
             "Rating": 82,
             "PlayerImage": "rbxassetid://118356846004553",
             "textColor": {
-                199,
-                130,
-                255
+                "R":199,
+                "G":130,
+                "B":255
             }
         },
         "Sponsor SZN": {
             "cardColor": {
-                46,
-                94,
-                167
+                "R":46,
+                "G":94,
+                "B":167
                 },
             "CardImage": "rbxassetid://132216675470656",
             "Position": "CB",
             "Rating": 85,
             "PlayerImage": "rbxassetid://118356846004553",
             "textColor": {
-                189,
-                198,
-                255
+                "R":189,
+                "G":198,
+                "B":255
             }
         },
         "sellMultiplier": 2,
         "Sponsor Oscar.": {
             "cardColor": {
-                235,
-                183,
-                110
+                "R":235,
+                "G":183,
+                "B":110
         },
             "CardImage": "rbxassetid://120388266032881",
             "Position": "CB",
             "Rating": 85,
             "PlayerImage": "rbxassetid://118356846004553",
             "textColor": {
-                255,
-                255,
-                255
+                "R":255,
+                "G":255,
+                "B":255
             }
         },
         "Sponsor Danaldo": {
             "cardColor": {
-                255,
-                196,
-                60
+                "R":255,
+                "G":196,
+                "B":60
         },
             "CardImage": "rbxassetid://73050913403992",
             "Position": "ST",
             "Rating": 94,
             "PlayerImage": "rbxassetid://114251677836801",
             "textColor": {
-                255,
-                255,
-                255
+                "R":255,
+                "G":255,
+                "B":255
             }
         },
         "Sponsor Solar": {
             "cardColor": {
-                64,
-                57,
-                255
+                "R":64,
+                "G":57,
+                "B":255
         },
             "CardImage": "rbxassetid://117615713952920",
             "Position": "CB",
             "Rating": 84,
             "PlayerImage": "rbxassetid://118356846004553",
             "textColor": {
-                255,
-                255,
-                255
+                "R":255,
+                "G":255,
+                "B":255
             }
         },
         "resetsOnWipe": false,
@@ -405,100 +405,100 @@
         "canUpgrade": false,
         "Sponsor Hydro": {
             "cardColor": {
-                170,
-                0,
-                0
+                "R":170,
+                "G":0,
+                "B":0
         },
             "CardImage": "rbxassetid://94387127241864",
             "Position": "CM",
             "Rating": 84,
             "PlayerImage": "rbxassetid://118356846004553",
             "textColor": {
-                255,
-                255,
-                255
+                "R":255,
+                "G":255,
+                "B":255
             }
         },
         "updatesRating": false,
         "canSell": true,
         "Sponsor D3rpeyboy": {
             "cardColor": {
-                255,
-                0,
-                166
+                "R":255,
+                "G":0,
+                "B":166
         },
             "CardImage": "rbxassetid://81098848749317",
             "Position": "LW",
             "Rating": 85,
             "PlayerImage": "rbxassetid://118356846004553",
             "textColor": {
-                0,
-                255,
-                213
+                "R":0,
+                "G":255,
+                "B":213
             }
         },
         "Sponsor Ollie": {
             "cardColor": {
-                116,
-                92,
-                7
+                "R":116,
+                "G":92,
+                "B":7
         },
             "CardImage": "rbxassetid://131512165919761",
             "Position": "LW",
             "Rating": 85,
             "PlayerImage": "rbxassetid://118356846004553",
             "textColor": {
-                255,
-                255,
-                255
+                "R":255,
+                "G":255,
+                "B":255
             }
         },
         "Sponsor TQ": {
             "cardColor": {
-                65,
-                45,
-                167
+                "R":65,
+                "G":45,
+                "B":167
         },
             "CardImage": "rbxassetid://127043979546657",
             "Position": "RW",
             "Rating": 84,
             "PlayerImage": "rbxassetid://118356846004553",
             "textColor": {
-                212,
-                216,
-                255
+                "R":212,
+                "G":216,
+                "B":255
             }
         },
         "Sponsor Xotic": {
             "cardColor": {
-                116,
-                7,
-                7
+                "R":116,
+                "G":7,
+                "B":7
         },
             "CardImage": "rbxassetid://99483760613590",
             "Position": "RW",
             "Rating": 86,
             "PlayerImage": "rbxassetid://118356846004553",
             "textColor": {
-                255,
-                155,
-                155
+                "R":255,
+                "G":155,
+                "B":155
             }
         },
         "Sponsor Xion": {
             "cardColor": {
-                255,
-                149,
-                244
+                "R":255,
+                "G":149,
+                "B":244
         },
             "CardImage": "rbxassetid://131662757215948",
             "Position": "CB",
             "Rating": 84,
             "PlayerImage": "rbxassetid://118356846004553",
             "textColor": {
-                255,
-                255,
-                255
+                "R":255,
+                "G":255,
+                "B":255
             }
         }
     },
@@ -548,9 +548,9 @@
             "Position": "ST"
         },
         "cardColor": {
-            77,
-            49,
-            118
+            "R":77,
+            "G":49,
+            "B":118
     },
         "cardImage": "rbxassetid://96059198703373",
         "Role Remix TJay": {
@@ -567,9 +567,9 @@
             "Position": "GK"
         },
         "textColor": {
-            227,
-            188,
-            255
+            "R":227,
+            "G":188,
+            "B":255
         }
     },
     "Elite": {
@@ -631,9 +631,9 @@
             "Position": "CB"
         },
         "cardColor": {
-            30,
-            30,
-            30
+            "R":30,
+            "G"30,
+            "B"30
     },
         "cardImage": "rbxassetid://135221624961954",
         "Elite Potts": {
@@ -662,9 +662,9 @@
             "Position": "CB"
         },
         "textColor": {
-            255,
-            255,
-            255
+            "R":255,
+            "G":255,
+            "B":255
         }
     },
     "Base": {
@@ -6315,16 +6315,16 @@
         },
         "canTrade": true,
         "cardColor": {
-            175,
-            14,
-            255
+            "R":175,
+            "G":14,
+            "B":255
     },
         "updatesRating": false,
         "canSell": true,
         "textColor": {
-            249,
-            164,
-            255
+            "R":249,
+            "G":164,
+            "B":255
         }
     },
     "Content Creator": {
@@ -6345,9 +6345,9 @@
             "Position": "CM"
         },
         "textColor": {
-            255,
-            255,
-            255
+            "R":255,
+            "G":255,
+            "B":255
         },
         "Content Creator Valhez": {
             "PlayerImage": "rbxassetid://90152207860123",
@@ -6370,9 +6370,9 @@
         "canUpgrade": true,
         "updatesRating": false,
         "cardColor": {
-            247,
-            24,
-            255
+            "R":247,
+            "G":24,
+            "B":255
     },
         "cardImage": "rbxassetid://86346672504496",
         "Content Creator MorganRogers": {
@@ -6430,9 +6430,9 @@
         "canUpgrade": true,
         "updatesRating": false,
         "cardColor": {
-            67,
-            60,
-            49
+            "R":67,
+            "G":60,
+            "B":49
     },
         "VMA Meeg": {
             "PlayerImage": "rbxassetid://85529770116199",
@@ -6457,9 +6457,9 @@
         },
         "cardImage": "rbxassetid://139589650882071",
         "textColor": {
-            204,
-            175,
-            117
+            "R":204,
+            "G":175,
+            "B":117
         }
     },
     "Top Performer": {
@@ -6489,9 +6489,9 @@
             "Position": "CB"
         },
         "cardColor": {
-            27,
-            27,
-            27
+            "R":27,
+            "G":27,
+            "B":27
     },
         "cardImage": "rbxassetid://123804438044937",
         "Top Performer Kdbumcheeks": {
@@ -6512,9 +6512,9 @@
             "Position": "GK"
         },
         "textColor": {
-            255,
-            191,
-            0
+            "R":255,
+            "G":191,
+            "B":0
         }
     },
     "Geometric Gem": {
@@ -6554,9 +6554,9 @@
             "Position": "GK"
         },
         "cardColor": {
-            143,
-            14,
-            194
+            "R":143,
+            "G":14,
+            "B":194
     },
         "cardImage": "rbxassetid://88537281592231",
         "Geometric Gem Lewi": {
@@ -6577,9 +6577,9 @@
             "Position": "ST"
         },
         "textColor": {
-            255,
-            205,
-            254
+            "R":255,
+            "G":205,
+            "B":254
         }
     },
     "Dev": {
@@ -6599,9 +6599,9 @@
         },
         "cardImage": "rbxassetid://80045797610619",
         "cardColor": {
-            255,
-            0,
-            0
+            "R":255,
+            "G":0,
+            "B":0
     },
         "updatesRating": true,
         "canSell": false,
@@ -6612,9 +6612,9 @@
         },
         "canTrade": false,
         "textColor": {
-            255,
-            255,
-            255
+            "R":255,
+            "G":255,
+            "B":255
         }
     }
 }
