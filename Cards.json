@@ -632,7 +632,7 @@
         },
         "cardColor": {
             "R":30,
-            "G"30,
+            "G":30,
             "B"30
     },
         "cardImage": "rbxassetid://135221624961954",
@@ -6152,9 +6152,9 @@
             "Position": "CB"
         },
         "cardColor": {
-            255,
-            183,
-            16
+            "R":255,
+            "G":183,
+            "B":16
     },
         "Creep": {
             "PlayerImage": "rbxassetid://76428394148656",
