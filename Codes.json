@@ -1,0 +1,247 @@
+{
+  "KillCam": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 2000,
+    "Tradeable": true,
+    "KeepAfterSeason": true
+  },
+  "EVL": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 5000,
+    "Tradeable": true,
+    "KeepAfterSeason": true
+  },
+  "VGL": {
+    "RewardType": "Pack",
+    "RewardName": "Premium Gold Pack",
+    "RewardCount": 1,
+    "Tradeable": true,
+    "KeepAfterSeason": false
+  },
+  "VDL": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 5000,
+    "Tradeable": true,
+    "KeepAfterSeason": true
+  },
+  "Halloween": {
+    "RewardType": "Pack",
+    "RewardName": "Jumbo Premium Gold Pack",
+    "RewardCount": 1,
+    "Tradeable": true,
+    "KeepAfterSeason": false
+  },
+  "VFO": {
+    "RewardType": "Pack",
+    "RewardName": "Premium Gold Pack",
+    "RewardCount": 1,
+    "Tradeable": true,
+    "KeepAfterSeason": false
+  },
+  "UVCL": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 2000,
+    "Tradeable": true,
+    "KeepAfterSeason": true
+  },
+  "VRFC": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 2000,
+    "Tradeable": true,
+    "KeepAfterSeason": true
+  },
+  "VPLF": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 2000,
+    "Tradeable": true,
+    "KeepAfterSeason": true
+  },
+  "Devious Fellow": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 5000,
+    "Tradeable": true,
+    "KeepAfterSeason": true
+  },
+  "VPA": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 2000,
+    "Tradeable": true,
+    "KeepAfterSeason": true
+  },
+  "VRLL": {
+    "RewardType": "Pack",
+    "RewardName": "Premium Gold Pack",
+    "RewardCount": 1,
+    "Tradeable": true,
+    "KeepAfterSeason": false
+  },
+  "EFL": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 2000,
+    "Tradeable": true,
+    "KeepAfterSeason": true
+  },
+  "USL": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 2000,
+    "Tradeable": true,
+    "KeepAfterSeason": true
+  },
+  "VRL": {
+    "RewardType": "Pack",
+    "RewardName": "Premium Gold Pack",
+    "RewardCount": 1,
+    "Tradeable": true,
+    "KeepAfterSeason": false
+  },
+  "VTO": {
+    "RewardType": "Pack",
+    "RewardName": "Premium Gold Pack",
+    "RewardCount": 1,
+    "Tradeable": true,
+    "KeepAfterSeason": false
+  },
+  "VFASD": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 2000,
+    "Tradeable": true,
+    "KeepAfterSeason": true
+  },
+  "Theo": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 2000,
+    "Tradeable": true,
+    "KeepAfterSeason": true
+  },
+  "VMA": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 2000,
+    "Tradeable": true,
+    "KeepAfterSeason": true
+  },
+  "Mfrappe": {
+    "RewardType": "Pack",
+    "RewardName": "Premium Gold Pack",
+    "RewardCount": 1,
+    "Tradeable": true,
+    "KeepAfterSeason": false
+  },
+  "DX7": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 2000,
+    "Tradeable": true,
+    "KeepAfterSeason": true
+  },
+  "Valhez": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 2000,
+    "Tradeable": true,
+    "KeepAfterSeason": true
+  },
+  "Dalmo": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 2000,
+    "Tradeable": true,
+    "KeepAfterSeason": true
+  },
+  "Football": {
+    "RewardType": "Pack",
+    "RewardName": "Rare Pack",
+    "RewardCount": 1,
+    "Tradeable": true,
+    "KeepAfterSeason": false
+  },
+  "Jumpscare": {
+    "RewardType": "Pack",
+    "RewardName": "Mega Pack",
+    "RewardCount": 1,
+    "Tradeable": true,
+    "KeepAfterSeason": false
+  },
+  "Bob The Builder": {
+    "RewardType": "Pack",
+    "RewardName": "Jumbo Mega Pack",
+    "RewardCount": 1,
+    "Tradeable": true,
+    "KeepAfterSeason": false
+  },
+  "Aqua": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 2000,
+    "Tradeable": true,
+    "KeepAfterSeason": false
+  },
+  "MorganRogers": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 2000,
+    "Tradeable": true,
+    "KeepAfterSeason": false
+  },
+  "Vxie": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 2000,
+    "Tradeable": true,
+    "KeepAfterSeason": false
+  },
+  "IrishGypo": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 2000,
+    "Tradeable": true,
+    "KeepAfterSeason": false
+  },
+  "aintblake": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 2000,
+    "Tradeable": true,
+    "KeepAfterSeason": false
+  },
+  "New Map": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 10000,
+    "Tradeable": true,
+    "KeepAfterSeason": false
+  },
+  "Peak": {
+    "RewardType": "Pack",
+    "RewardName": "Rare Pack",
+    "RewardCount": 1,
+    "Tradeable": true,
+    "KeepAfterSeason": false
+  },
+  "Dirt": {
+    "RewardType": "Pack",
+    "RewardName": "Mega Pack",
+    "RewardCount": 1,
+    "Tradeable": true,
+    "KeepAfterSeason": false
+  },
+  "Mr Blu": {
+    "RewardType": "Coins",
+    "RewardName": "Coins",
+    "RewardCount": 5000,
+    "Tradeable": true,
+    "KeepAfterSeason": false
+  }
+}
