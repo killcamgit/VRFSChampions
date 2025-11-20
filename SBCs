@@ -1,1 +1,388 @@
-
+{
+  "80+ Player Pick": {
+    "RewardType": "Pack",
+    "RewardName": "80+ Player Pick",
+    "RewardCount": 1,
+    "RequiredSBCs": [],
+    "Repeatable": true,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 79,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "Geometric Gem Bradz": {
+    "RewardType": "Card",
+    "RewardName": "Geometric Gem Bradz",
+    "RewardCount": 1,
+    "RequiredSBCs": [],
+    "Repeatable": false,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 84,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "Guaranteed Geometric Gem Pack": {
+    "RewardType": "Pack",
+    "RewardName": "Guaranteed Geometric Gem Pack",
+    "RewardCount": 1,
+    "RequiredSBCs": [],
+    "Repeatable": false,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 86,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "86+ Player Pick": {
+    "RewardType": "Pack",
+    "RewardName": "86+ Player Pick",
+    "RewardCount": 1,
+    "RequiredSBCs": [],
+    "Repeatable": false,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 85,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "Rare Pack Plunder": {
+    "RewardType": "Pack",
+    "RewardName": "Rare Pack",
+    "RewardCount": 1,
+    "RequiredSBCs": [],
+    "Repeatable": true,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 85,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "VMA Meeg": {
+    "RewardType": "Card",
+    "RewardName": "VMA Meeg",
+    "RewardCount": 1,
+    "RequiredSBCs": [],
+    "Repeatable": false,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 88,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "Rewind KillCam Part 1": {
+    "RewardType": "Pack",
+    "RewardName": "Mega Pack",
+    "RewardCount": 1,
+    "RequiredSBCs": [],
+    "Repeatable": false,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 87,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "Rewind KillCam Part 2": {
+    "RewardType": "Card",
+    "RewardName": "Rewind KillCam",
+    "RewardCount": 1,
+    "RequiredSBCs": ["Rewind KillCam Part 1"],
+    "Repeatable": false,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 88,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "Dynamic Duo Mr Blu": {
+    "RewardType": "Card",
+    "RewardName": "Dynamic Duo Mr Blu",
+    "RewardCount": 1,
+    "RequiredSBCs": [],
+    "Repeatable": false,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 87,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "Dynamic Duo BG": {
+    "RewardType": "Card",
+    "RewardName": "Dynamic Duo BG",
+    "RewardCount": 1,
+    "RequiredSBCs": ["Dynamic Duo Mr Blu"],
+    "Repeatable": false,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 89,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "Terrifying Talents Astro Part 1": {
+    "RewardType": "Pack",
+    "RewardName": "Jumbo Premium Gold Pack",
+    "RewardCount": 1,
+    "RequiredSBCs": [],
+    "Repeatable": false,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 86,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "Terrifying Talents Astro Part 2": {
+    "RewardType": "Card",
+    "RewardName": "Terrifying Talents Astro",
+    "RewardCount": 1,
+    "RequiredSBCs": ["Terrifying Talents Astro Part 1"],
+    "Repeatable": false,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 87,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "Guaranteed Terrifying Talents Pack Part 1": {
+    "RewardType": "Pack",
+    "RewardName": "Jumbo Premium Gold Pack",
+    "RewardCount": 1,
+    "RequiredSBCs": [],
+    "Repeatable": false,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 86,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "Guaranteed Terrifying Talents Pack Part 2": {
+    "RewardType": "Pack",
+    "RewardName": "Jumbo Premium Gold Pack",
+    "RewardCount": 1,
+    "RequiredSBCs": ["Guaranteed Terrifying Talents Pack Part 1"],
+    "Repeatable": false,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 87,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "Guaranteed Terrifying Talents Pack Part 3": {
+    "RewardType": "Pack",
+    "RewardName": "Guaranteed Terrifying Talents Pack",
+    "RewardCount": 1,
+    "RequiredSBCs": ["Guaranteed Terrifying Talents Pack Part 2"],
+    "Repeatable": false,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 88,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "Spooky Season": {
+    "RewardType": "Pack",
+    "RewardName": "85+ x 5 Pack",
+    "RewardCount": 1,
+    "RequiredSBCs": [],
+    "Repeatable": false,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 89,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "Silver Surfer": {
+    "RewardType": "Pack",
+    "RewardName": "Guaranteed Silver Surfers Pack",
+    "RewardCount": 1,
+    "RequiredSBCs": [],
+    "Repeatable": false,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 89,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "Silver Surfers Disco Davinci": {
+    "RewardType": "Card",
+    "RewardName": "Silver Surfers Disco Davinci",
+    "RewardCount": 1,
+    "RequiredSBCs": [],
+    "Repeatable": false,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 88,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "Rewind Kirx Part 1": {
+    "RewardType": "Pack",
+    "RewardName": "Mega Pack",
+    "RewardCount": 1,
+    "RequiredSBCs": [],
+    "Repeatable": false,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 88,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "Rewind Kirx Part 2": {
+    "RewardType": "Card",
+    "RewardName": "Rewind Kirx",
+    "RewardCount": 1,
+    "RequiredSBCs": ["Rewind Kirx Part 1"],
+    "Repeatable": false,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 88,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "Campaign 1 Player Pick": {
+    "RewardType": "Pack",
+    "RewardName": "Campaign 1 Player Pick",
+    "RewardCount": 1,
+    "RequiredSBCs": [],
+    "Repeatable": false,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 89,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "Silver Surfers Nemesis": {
+    "RewardType": "Card",
+    "RewardName": "Silver Surfers Nemesis",
+    "RewardCount": 1,
+    "RequiredSBCs": [],
+    "Repeatable": false,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 88,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "85+ x 5 Pack": {
+    "RewardType": "Pack",
+    "RewardName": "85+ x 5 Pack",
+    "RewardCount": 1,
+    "RequiredSBCs": [],
+    "Repeatable": true,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 88,
+      "SpecificPlayers": [],
+      "SpecificCardType": {},
+      "NumberOfCards": 7
+    }
+  },
+  "Guaranteed Max 88 Hero Pack": {
+    "RewardType": "Pack",
+    "RewardName": "Guaranteed Max 88 Hero Pack",
+    "RewardCount": 1,
+    "RequiredSBCs": [],
+    "Repeatable": false,
+    "Tradeable": true,
+    "KeepAfterSeason": false,
+    "CanSell": true,
+    "Requirements": {
+      "Rating": 86,
+      "SpecificPlayers": [],
+      "SpecificCardType": {
+        "Top Performer": 1
+      },
+      "NumberOfCards": 7
+    }
+  }
+}
