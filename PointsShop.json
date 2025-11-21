@@ -1,0 +1,227 @@
+{
+  "Bronze 1": {
+    "Rewards": {
+      "Coins": 10000,
+      "Packs": {
+        "Jumbo Premium Gold Pack": {
+          "Amount": 1,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        },
+        "80+ Player Pack": {
+          "Amount": 2,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        }
+      },
+      "Cards": {}
+    },
+    "Price": 20
+  },
+  "Bronze 2": {
+    "Rewards": {
+      "Coins": 15000,
+      "Packs": {
+        "Jumbo Premium Gold Pack": {
+          "Amount": 2,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        },
+        "80+ Player Pick": {
+          "Amount": 2,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        }
+      },
+      "Cards": {}
+    },
+    "Price": 40
+  },
+  "Bronze 3": {
+    "Rewards": {
+      "Coins": 20000,
+      "Packs": {
+        "Jumbo Premium Gold Pack": {
+          "Amount": 2,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        },
+        "80+ Player Pick": {
+          "Amount": 2,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        },
+        "82+ Player Pick": {
+          "Amount": 1,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        }
+      },
+      "Cards": {}
+    },
+    "Price": 60
+  },
+  "Silver 1": {
+    "Rewards": {
+      "Coins": 30000,
+      "Packs": {
+        "Mega Pack": {
+          "Amount": 2,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        },
+        "82+ Player Pick": {
+          "Amount": 2,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        }
+      },
+      "Cards": {}
+    },
+    "Price": 100
+  },
+  "Silver 2": {
+    "Rewards": {
+      "Coins": 40000,
+      "Packs": {
+        "Mega Pack": {
+          "Amount": 3,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        },
+        "82+ Player Pick": {
+          "Amount": 2,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        },
+        "84+ Player Pick": {
+          "Amount": 1,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        }
+      },
+      "Cards": {}
+    },
+    "Price": 140
+  },
+  "Silver 3": {
+    "Rewards": {
+      "Coins": 50000,
+      "Packs": {
+        "Mega Pack": {
+          "Amount": 4,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        },
+        "82+ Player Pick": {
+          "Amount": 3,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        },
+        "84+ Player Pick": {
+          "Amount": 2,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        }
+      },
+      "Cards": {}
+    },
+    "Price": 180
+  },
+  "Gold 1": {
+    "Rewards": {
+      "Coins": 70000,
+      "Packs": {
+        "Jumbo Mega Pack": {
+          "Amount": 2,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        },
+        "84+ Player Pick": {
+          "Amount": 2,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        },
+        "86+ Player Pick": {
+          "Amount": 1,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        }
+      },
+      "Cards": {}
+    },
+    "Price": 240
+  },
+  "Gold 2": {
+    "Rewards": {
+      "Coins": 90000,
+      "Packs": {
+        "Jumbo Mega Pack": {
+          "Amount": 3,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        },
+        "84+ Player Pick": {
+          "Amount": 2,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        },
+        "86+ Player Pick": {
+          "Amount": 2,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        }
+      },
+      "Cards": {}
+    },
+    "Price": 300
+  },
+  "Gold 3": {
+    "Rewards": {
+      "Coins": 110000,
+      "Packs": {
+        "Rare Pack": {
+          "Amount": 2,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        },
+        "Mega Pack": {
+          "Amount": 2,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        },
+        "84+ Player Pick": {
+          "Amount": 2,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        },
+        "86+ Player Pick": {
+          "Amount": 2,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        }
+      },
+      "Cards": {}
+    },
+    "Price": 360
+  },
+  "Elite": {
+    "Rewards": {
+      "Coins": 250000,
+      "Packs": {
+        "Ultimate Pack": {
+          "Amount": 3,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        },
+        "Elite Player Pick": {
+          "Amount": 1,
+          "Tradeable": true,
+          "KeepAfterSeason": false
+        }
+      },
+      "Cards": {}
+    },
+    "Price": 1000
+  }
+}
