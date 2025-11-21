@@ -1,1 +1,15 @@
+{
 
+  ActivePacks: {
+
+    "Bronze Pack",
+    "Silver Pack",
+    "Gold Pack",
+    "Premium Gold Pack",
+    "Jumbo Premium Gold Pack",
+    "Mega Pack"
+    
+  }
+
+
+}
